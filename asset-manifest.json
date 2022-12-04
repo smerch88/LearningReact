@@ -8,5 +8,8 @@
     "main.723e4e8c.css.map": "/LearningReact/static/css/main.723e4e8c.css.map",
     "main.d59cfe96.js.map": "/LearningReact/static/js/main.d59cfe96.js.map"
   },
-  "entrypoints": ["static/css/main.723e4e8c.css", "static/js/main.d59cfe96.js"]
+  "entrypoints": [
+    "LearningReact/static/css/main.723e4e8c.css",
+    "LearningReact/static/js/main.d59cfe96.js"
+  ]
 }
