@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.723e4e8c.css",
-    "main.js": "/static/js/main.d59cfe96.js",
-    "static/media/bg.png": "/static/media/bg.b623286bedd4a3ea5f9a.png",
-    "static/media/btnbg.png": "/static/media/btnbg.149cf4840eca4835900b.png",
-    "index.html": "/index.html",
-    "main.723e4e8c.css.map": "/static/css/main.723e4e8c.css.map",
-    "main.d59cfe96.js.map": "/static/js/main.d59cfe96.js.map"
+    "main.css": "/LearningReact/static/css/main.723e4e8c.css",
+    "main.js": "/LearningReact/static/js/main.d59cfe96.js",
+    "static/media/bg.png": "/LearningReact/static/media/bg.b623286bedd4a3ea5f9a.png",
+    "static/media/btnbg.png": "/LearningReact/static/media/btnbg.149cf4840eca4835900b.png",
+    "index.html": "/LearningReact/index.html",
+    "main.723e4e8c.css.map": "/LearningReact/static/css/main.723e4e8c.css.map",
+    "main.d59cfe96.js.map": "/LearningReact/static/js/main.d59cfe96.js.map"
   },
-  "entrypoints": [
-    "static/css/main.723e4e8c.css",
-    "static/js/main.d59cfe96.js"
-  ]
+  "entrypoints": ["static/css/main.723e4e8c.css", "static/js/main.d59cfe96.js"]
 }
